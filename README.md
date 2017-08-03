@@ -20,4 +20,4 @@ Our course has you create your brand and assets as a contractor:
 
 Freelance contracting is a form of leadership. The communication skills you learn will be useful in all future work scenarios.
 
- How will you add value to people’s companies?
+ How will you add value to peoples' companies?
