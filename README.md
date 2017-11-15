@@ -20,4 +20,20 @@ Our course has you create your brand and assets as a contractor:
 
 Freelance contracting is a form of leadership. The communication skills you learn will be useful in all future work scenarios.
 
- How will you add value to peoples' companies?
+How will you add value to peoples' companies?
+
+Class 1: Intro: Leadership in Contracting
+- Activity: Draw out the step by step process of contract work
+Class 2: Finding Clients
+- Activity: List an prioritize your sources of clients
+Class 3: Fit Conversation
+- Activity: Role play 
+Class 4: Collaboration Process Conversation
+Class 5: Common Issues and Interventions pt 1
+Class 6: Common Issues and Interventions pt 2
+Class 7: Money, Pricing, Payment, Taxes
+Class 8: Contracts and Legality
+Class 9: Negotiation
+Class 10: Success, Referral and Maintenance
+Class 11: LAB
+Class 12: Role Play Entire Contracting Process
