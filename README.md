@@ -22,8 +22,7 @@ Freelance contracting is a form of leadership. The communication skills you lear
 
 How will you add value to peoples' companies?
 
-Class 1: Intro: Leadership in Contracting
-- Activity: Draw out the step by step process of contract work
+Class 1: Intro: Leadership in Contracting (Activity: Draw out the step by step process of contract work)
 
 Class 2: Finding Clients
 - Activity: List an prioritize your sources of clients
