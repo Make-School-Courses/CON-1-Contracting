@@ -1,4 +1,4 @@
-# Contracting – Product Pitches, Negotiation & Customer Happiness
+# Contracting - 1.1 Soucing Clients, Negotiation, & Customer Happiness
 
 The best contractors are not plug-and-play mercenaries - they take a proactive approach by leading client conversations, identifying and meeting client needs, and executing flawlessly.
 
