@@ -20,6 +20,19 @@ Freelance contracting is a form of leadership. The communication skills you lear
 
 How will you add value to peoples' companies?
 
+## Tutorials & Projects
+- Contracting Blog Post
+
+## Evaluation
+
+To pass this course you must meet the following requirements:
+
+- No more than two no call no shows
+- No more than four excused absences
+- Make up all classwork from all absences
+- Finish all required tutorials and projects
+- Pass the final exam (summative assessment) >=80%
+
 ## Class Schedule
 
 Class 1: Intro: Leadership in Contracting (Activity: Draw out the step by step process of contract work)
