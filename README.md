@@ -1,18 +1,16 @@
-# CON 1: Contracting – Product Pitches, Negotiation &amp; Customer Happiness
-
-**Sylabus**
+# Contracting – Product Pitches, Negotiation & Customer Happiness
 
 The best contractors are not plug-and-play mercenaries - they take a proactive approach by leading client conversations, identifying and meeting client needs, and executing flawlessly.
 
 This contracting course is designed to help you be an exceptional contractor. We approach each class through the frame of leadership: how you can you lead the conversation to explore your project/role fit, how will you set up a collaborative work process, how will you ensure that payment and legalities are buttoned up?
 
-Our course has you create your brand and assets as a contractor:
+The course has students create their brand and assets as a contractor:
 * Create contracts, NDAs, and processes to limit your liabilities
 * Create your practice for payments, pricing, filing 1099 forms and Taxes
 * How to find gigs through referral and online platforms
 
-70% of the course will mobilize your learnings into action through role-play scenarios:
-* Pitch your services to a prospective clients
+70% of the course will mobilize  learnings into action through role-play scenarios:
+* Pitch  services to a prospective clients
 * Navigate through the five phases of contracting
 * Lead conversation to determine project/skills fit 
 * Lead conversation to scope contract and workflow to minimize risks
@@ -22,7 +20,7 @@ Freelance contracting is a form of leadership. The communication skills you lear
 
 How will you add value to peoples' companies?
 
-**Class Schedule**
+## Class Schedule
 
 Class 1: Intro: Leadership in Contracting (Activity: Draw out the step by step process of contract work)
 
@@ -47,4 +45,15 @@ Class 10: Success, Referral and Maintenance (Activity: Write a referral and succ
 Class 11: LAB
 
 Class 12: Role Play Entire Contracting Process (Activity: Role play entire contracting process)
+
+
+## Make School Course Policies
+
+[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
+[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
+[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
+[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+<br>
+[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
+[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
 
